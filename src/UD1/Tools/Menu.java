@@ -1,4 +1,4 @@
-package Tools;
+package cs112.ud2.UD1.Tools;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

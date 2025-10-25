@@ -1,4 +1,4 @@
-package Baseball;
+package cs112.ud2.UD1.Baseball;
 
 /**
  * A MajorLeague designed to store Teams with special ordering and categorizing

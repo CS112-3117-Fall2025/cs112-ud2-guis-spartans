@@ -1,6 +1,6 @@
 package cs112.ud2.UD1.Tools;
 
-import Baseball.*;
+import cs112.ud2.UD1.Baseball.*;
 
 /**
  * A tester class designed to ensure methods, classes, objects, etc. in this

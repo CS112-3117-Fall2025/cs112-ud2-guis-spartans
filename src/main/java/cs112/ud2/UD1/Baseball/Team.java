@@ -1,6 +1,6 @@
 package cs112.ud2.UD1.Baseball;
 
-import Tools.Math;
+import cs112.ud2.UD1.Tools.Math;
 
 /**
  * A team class designed to store players with special ordering and categorizing

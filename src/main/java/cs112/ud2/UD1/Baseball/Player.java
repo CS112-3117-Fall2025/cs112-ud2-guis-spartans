@@ -66,7 +66,7 @@ package cs112.ud2.UD1.Baseball;
  *          + setWalksPitching(walksPitching : int) : void
  *          + getWalksPitching() : int
  *          + setStrikeoutsPitching(strikeoutsPitching : int) : void
- *          + getStriekoutsPitching() : int
+ *          + getStrikeoutsPitching() : int
  *          + setBattingAgainstAverage(battingAgainstAverage : double) : void
  *          + getBattingAgainstAverage() : double
  * 

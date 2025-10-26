@@ -70,3 +70,4 @@ public class PlayerGUI extends Application {
         launch(args);
     }
 }
+

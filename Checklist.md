@@ -23,8 +23,8 @@ You must use at least 1 of the following topics thoughtfully in your project and
 
 ONE group member will submit the repository link and a (ZIP) file to canvas on behalf of the team.
 - [x] Create a wireframe diagram
-- [ ] Create a working GUI on IntelliJ
-- [ ] Integrate one feature from UD1 to the GUI
+- [x] Create a working GUI on IntelliJ
+- [x] Integrate one feature from UD1 to the GUI
 
 
 ## UD3 Project Requirements ##

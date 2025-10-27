@@ -1,7 +1,7 @@
-package cs112.ud2.UD1;
+package cs112.ud.UD1;
 
-import cs112.ud2.UD1.Tools.*;
-import cs112.ud2.UD1.Baseball.*;
+import cs112.ud.UD1.Tools.*;
+import cs112.ud.UD1.Baseball.*;
 
 /**
  * The steering wheel of this entire program. Will contain minimal code,

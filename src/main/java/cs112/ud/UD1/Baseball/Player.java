@@ -1,4 +1,4 @@
-package cs112.ud2.UD1.Baseball;
+package cs112.ud.UD1.Baseball;
 
 /**
  * A player designed to be on a team and interact in a game. Hitting/Pitching

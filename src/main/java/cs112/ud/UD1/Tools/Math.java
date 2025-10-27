@@ -1,4 +1,4 @@
-package cs112.ud2.UD1.Tools;
+package cs112.ud.UD1.Tools;
 
 /**
  * A class used to store commonly used math operations in this program.

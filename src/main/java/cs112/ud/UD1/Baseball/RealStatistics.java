@@ -1,4 +1,4 @@
-package cs112.ud2.UD1.Baseball;
+package cs112.ud.UD1.Baseball;
 
 /**
  * A storage class designed to keep real statistics from real MLB players,

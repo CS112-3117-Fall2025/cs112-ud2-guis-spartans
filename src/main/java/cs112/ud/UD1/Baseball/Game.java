@@ -1,4 +1,4 @@
-package cs112.ud2.UD1.Baseball;
+package cs112.ud.UD1.Baseball;
 
 /**
  * A game class that will display dialogue of an interactive game. Will decide a

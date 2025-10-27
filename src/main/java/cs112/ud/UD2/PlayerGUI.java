@@ -1,5 +1,6 @@
-package cs112.ud2.UD1.Baseball;
+package cs112.ud.UD2;
 
+import cs112.ud.UD1.Baseball.Player;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
